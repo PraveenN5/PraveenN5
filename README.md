@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Reciept Scan Sustainable](https://github.com/Muhilan-H/Receipt_Scan_Sustainable_Spend)
 
-- 👨‍💻 All of my projects are available at [https://github.com/PraveenN5](https://github.com/PraveenN5)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/PraveenN5)
 
 - 📫 How to reach me **nallasivamp123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13K1VmxV3i0__hd3wJryvucjvfv0lZiG0/view?usp=sharing](https://drive.google.com/file/d/13K1VmxV3i0__hd3wJryvucjvfv0lZiG0/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13K1VmxV3i0__hd3wJryvucjvfv0lZiG0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
