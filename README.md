@@ -2,10 +2,7 @@
 <h3 align="center">A passionate undergraduate student at Amrita Vishwa Vidyapeetham, exploring the vast world of full-stack development with enthusiasm and determination.🚀</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenn5&label=Profile%20views&color=0e75b6&style=flat" alt="praveenn5" /> </p>
-
-
+<br>
 
 - 🔭 I’m currently working on [Brainwave Intern](https://drive.google.com/file/d/1rdJ376GfbtXfi9XCREb6YoPYW9Dx7ybS/view?usp=drive_link)
 
