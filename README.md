@@ -7,13 +7,13 @@
 
 
 
-- 🔭 I’m currently working on [Reciept Scan Sustainable](https://github.com/Muhilan-H/Receipt_Scan_Sustainable_Spend)
+- 🔭 I’m currently working on [Brainwave Intern](https://drive.google.com/file/d/1rdJ376GfbtXfi9XCREb6YoPYW9Dx7ybS/view?usp=drive_link)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/PraveenN5)
 
 - 📫 How to reach me **nallasivamp123@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1c7KZqVoANqSd4NJR00lqlOMskIxHlLr4/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wtvuOPQffaPENbOR4NEaIcg-HLNuXb8d/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
