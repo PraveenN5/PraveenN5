@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Praveen N</h1>
 <h3 align="center">A passionate undergraduate student at Amrita Vishwa Vidyapeetham, exploring the vast world of full-stack development with enthusiasm and determination.🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4E12AQF_GQBPe3v4PA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1712068145310?e=1735171200&v=beta&t=UkBKqbOTM5M6QB9L48jkl_7g4FtMFKeR06vHpBBxREw">
 <br>
-
-- 🔭 I’m currently working on [Brainwave Intern](https://drive.google.com/file/d/1rdJ376GfbtXfi9XCREb6YoPYW9Dx7ybS/view?usp=drive_link)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/PraveenN5)
 
