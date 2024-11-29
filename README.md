@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/PraveenN5)
 
-- 📫 How to reach me **nallasivamp123@gmail.com**
+- 📫 How to reach me **[Profile](https://linktr.ee/PraveenN45)**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wtvuOPQffaPENbOR4NEaIcg-HLNuXb8d/view?usp=sharing)
 
