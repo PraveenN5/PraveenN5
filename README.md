@@ -4,11 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 <br>
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/PraveenN5)
+- 🔭 I’m currently working on  **[Security Visualization Tool](https://github.com/PraveenN5/Security_Visualization_Tool)**
 
-- 📫 How to reach me **[Profile](https://linktr.ee/PraveenN45)**
+- 🌱 I’m currently learning  **[Mern Stack](https://www.mongodb.com/resources/languages/mern-stack)**
+  
+- 👨‍💻 All of my projects are available at **[Github](https://github.com/PraveenN5)**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wtvuOPQffaPENbOR4NEaIcg-HLNuXb8d/view?usp=sharing)
+- 📫 How to reach me  **[Gmail](nallasivamp123@gmail.com)**
+
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1aWB6afkg5TU7kYsqrtTdLRlWLZb0u5QL/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
