@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen N</h1>
 <h3 align="center">A passionate undergraduate student at Amrita Vishwa Vidyapeetham, exploring the vast world of full-stack development with enthusiasm and determination.🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4E12AQF_GQBPe3v4PA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1712068145310?e=1735171200&v=beta&t=UkBKqbOTM5M6QB9L48jkl_7g4FtMFKeR06vHpBBxREw">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 <br>
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/PraveenN5)
