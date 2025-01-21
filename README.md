@@ -10,7 +10,7 @@
   
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/PraveenN5)**
 
-- 📫 How to reach me  **[Gmail](nallasivamp123@gmail.com)**
+- 📫 How to reach me   **nallasivamp123@gmail.com**
 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1aWB6afkg5TU7kYsqrtTdLRlWLZb0u5QL/view?usp=sharing)**
 
