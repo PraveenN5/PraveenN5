@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 <br>
 
-- 🔭 I’m currently working on  **[Security Visualization Tool](https://securityviz.site/)**
-  
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/PraveenN5)**
 
 - 📫 How to reach me   **nallasivamp123@gmail.com**
